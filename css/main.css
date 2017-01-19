@@ -1,0 +1,64 @@
+h1{
+  font-family: 'Schoolbell', cursive;
+}
+.gif-poke{
+  width: 10%;
+}
+/*SECTIONS*/
+#section0{
+  background-image: url("../image/fotos/PLATAFORMA/15289095_10154828917397342_7955226332590741057_o.jpg");
+  background-size: cover;
+}
+#section1{
+  background-color: #2ec8c4;
+}
+#section2{
+  background-color: #ffc50a;
+}
+#section3{
+  background-color: #b1d235;
+}
+#section4{
+  background-color: #eb008b;
+}
+/*MENU*/
+.floatInherit {
+	float: inherit !important;
+ }
+ .margin10 {
+ 	margin: 15% 0%;
+ }
+ #section0>a>span,p {
+ 	text-decoration: none;
+ 	color: white !important;
+ }
+ .navbar-default {
+ 	background-color: transparent !important;
+ 	border-color: transparent !important;
+ 	color: white !important;
+ }
+ #moverMenu {
+ 	margin-top: -20%;
+  border-bottom: 2px solid black;
+ }
+ .navbar-default .navbar-nav>li>a  {
+ 	color: white !important;
+ }
+/**/
+.border-black{
+  border: 3px solid black;
+}
+.lead{
+  color: black!important;
+}
+
+					/*** Responsive ***/
+/*Desde mi punto de vista, estas media queries ya no son necesarios porque en Bootstrap ya estan definidos cuatro
+breakpoints que nos ayudan a que la página sea responsive, para este ejercicio solo se usaron dos, la que marca para
+celuar y pantalla de computadora*/
+
+
+@media screen and (max-width : 600px) {
+}
+@media screen and (max-width: 920px) {
+}
