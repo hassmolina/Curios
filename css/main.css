@@ -1,18 +1,19 @@
 #curios-header{
-  color: white;
-  margin-bottom: 40%;
-  font-size: 460%;
+  padding-bottom: 30%;
+  width: 30%;
 }
 h1{
   font-family: 'Schoolbell', cursive;
 }
-.gif-poke{
-  width: 10%;
+.icon-modulos{
+  width: 40%;
+padding: 3%;
 }
 /*SECTIONS*/
 #section0{
-  background-image: url("../image/fotos/PLATAFORMA/15289095_10154828917397342_7955226332590741057_o.jpg");
-  background-size: cover;
+  background-image: url("../image/fotos/PLATAFORMA/inicio.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
 }
 #section1{
   background-color: #2ec8c4;
