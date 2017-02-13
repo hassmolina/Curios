@@ -4,10 +4,15 @@
 }
 h1{
   font-family: 'Schoolbell', cursive;
+  font-size: 300%;
 }
 .icon-modulos{
   width: 40%;
 padding: 3%;
+}
+.font-kids{
+  font-family: 'Patrick Hand', cursive;
+  font-size: 150%;
 }
 /*SECTIONS*/
 #section0{
@@ -28,11 +33,15 @@ padding: 3%;
   background-color: #eb008b;
 }
 /*MENU*/
+
+.menu-color{
+color:#eb008b;
+}
 .floatInherit {
 	float: inherit !important;
  }
- .margin10 {
- 	margin: 15% 0%;
+ .margin5 {
+ 	margin: 1% 0%;
  }
  #section0>a>span,p {
  	text-decoration: none;
